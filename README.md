@@ -1,24 +1,7 @@
 ﻿<h1 align="center">:sunglasses: About me</h2>
-<h3 align="center">Hello I'm Vincenzo, a Backend Developer.</h3>
+<h3 align="center">I'm a master student in Computer Science with a deep interest in the field of Software Engineering</h3>
 <h3 align="center">I spend most of my time trying to learn new things and improving myself.</h3>
-<h3 align="center">My favourite slogan is: "Think twice, code once!"</h3>
-
-<h2 align="center">:computer: What I know</h2>
-<div align="center">
-	<img src="./icons/java.svg" height=50/>
-	<a href="https://spring.io/" target="_blank">
-		<img src="./icons/spring.svg" height=50/>
-	</a>
-	<a href="https://quarkus.io/" target="_blank">
-		<img src="./icons/quarkus.svg" height=50/>
-	</a>
-	<img src="./icons/python.svg" height=50/>
-	<img src="./icons/c.svg" height=50/>
-	<!-- <img src="https://cdn.iconscout.com/icon/free/png-256/mysql-21-1174941.png" height=50/>
-	<img src="https://cdn.iconscout.com/icon/free/png-256/html-2752158-2284975.png" height=50/>
-	<img src="https://cdn.iconscout.com/icon/free/png-256/css3-11-1175239.png" height=50/> (not relevant) -->
-	<img src="./icons/javascript.svg" height=50/>
-</div>
+<h3 align="center">My favourite slogan is: <em>Think twice, code once!</em></h3>
 
 <h2 align="center">:mailbox: Contacts</h2>
 <div align="center">
